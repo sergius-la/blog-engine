@@ -1,2 +1,2 @@
 # blog-engine
-Blog Engine tutorial project
+Blog Engine django tutorial project
