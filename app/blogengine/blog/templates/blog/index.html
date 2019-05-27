@@ -6,10 +6,7 @@
 
 {% block content %}
     <h1 class="mb-5">Posts:</h1>
-
-    
     {% for post in posts %}
-        {% include "blog/includes/posr_card_detail.html" %}
+        {% include "blog/includes/post_card_detail.html" %}
     {% endfor %}
-
 {% endblock %}
